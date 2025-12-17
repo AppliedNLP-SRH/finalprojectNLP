@@ -1,5 +1,5 @@
-# Project X 
-Group members: Y, Z
+# Final Project 
+Group members: Yousef Askar, Abdelmalek Abdou
 
 This repository contains the materials for **Project X**.  
 - Presentation Slides: see [`slides/`](./slides/) folder  
@@ -8,7 +8,7 @@ This repository contains the materials for **Project X**.
 - Results: the folder [`results/`](./result/) contains our figures and tables.
   
 ---
-- Read more about this project on Medium: <Medium_Article_link>
+- Read more about this project on [Medium: <Medium_Article_link>](https://medium.com/@xcca12/from-text-to-insight-our-7-week-journey-through-nlp-using-the-48-laws-of-power-and-the-laws-of-94327e440477)
 ---
 
 ## 📑 Project Outline
